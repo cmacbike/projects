@@ -1,0 +1,11 @@
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Debug\IMF_WebRequest.exe.config
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Debug\IMF_WebRequest.exe
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Debug\IMF_WebRequest.pdb
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Debug\log4net.dll
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Debug\StaticDust.Configuration.dll
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequestClient.csproj.ResolveComReference.cache
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequestClient.csproj.CopyComplete
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequest.exe
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequest.pdb
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequestClient.csprojAssemblyReference.cache
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Debug\IMF_WebRequestClient.csproj.CoreCompileInputs.cache

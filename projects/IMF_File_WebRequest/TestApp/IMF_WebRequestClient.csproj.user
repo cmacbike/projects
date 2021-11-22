@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-c \\us1.1corp.org\dc0\RCM\prod\apps\RimsX\IMF\config\IMF_DATA_dev.config</StartArguments>
+  </PropertyGroup>
+</Project>

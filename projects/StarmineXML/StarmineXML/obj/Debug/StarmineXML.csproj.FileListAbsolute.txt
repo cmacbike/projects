@@ -1,0 +1,12 @@
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\StarmineXML.exe.config
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\StarmineXML.exe
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\StarmineXML.pdb
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\log4net.dll
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\StaticDust.Configuration.dll
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\obj\Debug\StarmineXML.exe
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\obj\Debug\StarmineXML.pdb
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\bin\Debug\BouncyCastle.CryptoExt.DLL
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\obj\Debug\Interop.MSXML2.dll
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\obj\Debug\StarmineXML.csproj.ResolveComReference.cache
+D:\projects_tfs\RIMS\rimsscheduler\StarmineXML\StarmineXML\obj\Debug\StarmineXML.csprojResolveAssemblyReference.cache

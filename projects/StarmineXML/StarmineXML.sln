@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarmineXML", "StarmineXML\StarmineXML.csproj", "{06229840-D3A9-48A2-BB6A-59E4711F09F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06229840-D3A9-48A2-BB6A-59E4711F09F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06229840-D3A9-48A2-BB6A-59E4711F09F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06229840-D3A9-48A2-BB6A-59E4711F09F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06229840-D3A9-48A2-BB6A-59E4711F09F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1405819B-E855-43EF-8F74-1348593FCBDB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.cn.us1.1corp.org:8080/tfs/bam
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = StarmineXML\\StarmineXML.csproj
+		SccProjectName1 = StarmineXML
+		SccLocalPath1 = StarmineXML
+	EndGlobalSection
+EndGlobal

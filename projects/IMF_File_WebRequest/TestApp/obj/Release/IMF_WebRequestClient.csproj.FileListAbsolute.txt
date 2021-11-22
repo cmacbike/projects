@@ -1,0 +1,9 @@
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Release\IMF_WebRequest.exe.config
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Release\IMF_WebRequest.exe
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Release\IMF_WebRequest.pdb
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Release\log4net.dll
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\bin\Release\StaticDust.Configuration.dll
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Release\IMF_WebRequestClient.csproj.ResolveComReference.cache
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Release\IMF_WebRequestClient.csproj.CopyComplete
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Release\IMF_WebRequest.exe
+C:\projects\Institutional\AppSource\IPMS\IMF_File_WebRequest\TestApp\obj\Release\IMF_WebRequest.pdb
